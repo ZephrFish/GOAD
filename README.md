@@ -59,8 +59,11 @@ This lab use free windows VM only (180 days). After that delay enter a license o
 - Installation depend of the provider you use, please follow the appropriate guide :
   - [Install with Virtualbox](./docs/install_with_virtualbox.md)
   - [Install with VmWare](./docs/install_with_vmware.md)
+  - [Install with VmWare (Windows)](./docs/install_with_vmware_Windows.md)
   - [Install with Proxmox](./docs/install_with_proxmox.md)
   - [Install with Azure](./docs/install_with_azure.md)
+ 
+
 
 - Installation is in three parts :
   1. Templating : this will create the template to use (needed only for proxmox) 
